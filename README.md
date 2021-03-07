@@ -1,4 +1,4 @@
-# Web Scraping Using Beautifulsou/Scrapy
+# Web Scraping Using Beautifulsoup/Scrapy
 This repository is for projects related to web scraping (i.e Beautifulsoup, Scrapy)
 
 ##### Notebooks
